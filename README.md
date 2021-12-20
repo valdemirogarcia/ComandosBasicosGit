@@ -7,6 +7,7 @@
 `git remote add origin "destino"` - Informa a pasta remota.\
 `git remote -v` - Permite visualizar o repositório remoto.\
 `git push -u origin master` (ou main) - Publica as alterações no repositório remoto.\
+`git pull` - mescla todas as alterações do repositório remoto para o diretório local.\
 `git pull` - Baixa as alterações no repositório remoto (equivalente a fetch e depois o merge).\
 `git clone "link do repositorio"` - faz uma cópia da pasta do Github.\
 `git merge` -> incorpora os arquivos no nosso repositório local depois do git fetch.\
