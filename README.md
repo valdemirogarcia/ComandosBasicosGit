@@ -11,6 +11,7 @@
 `git push -u origin master` (ou main) - Publica as alterações no repositório remoto.\
 `git pull` - Baixa todas as alterações do repositório remoto para o diretório local (equivalente a fetch e depois o merge).\
 `git clone "link do repositorio"` - faz uma cópia da pasta do Github.\
-`git merge` -> incorpora os arquivos no nosso repositório local depois do git fetch.\
+`git merge` - incorpora os arquivos no nosso repositório local depois do git fetch.\
+`git merge --abort` - abortará o processo de mesclagem e tentará reconstruir a condição anterior a mesclagem.\
 `git checkout -b tarefa/minha-primeira-branch` - cria uma branch (O parâmetro "–b" é utilizado para informar que desejamos criar uma branch e que esse ramo ainda não existe.)\
 `git branch` - lista as branches já criadas.
