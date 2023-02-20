@@ -7,7 +7,7 @@
 `git commit -m "comentario"` - Registra/salva a alteração no repositório.\
 `git remote add origin https://github.com/userName/repoName.git` - Informa a pasta remota.\
 `git push -u origin main` - Publica as alterações no repositório remoto.\
-ou.\
+ou\
 `git push --force origin main` - Força a publicação das alterações no repositório remoto.\
 <br>
 `git remote -v` - Permite visualizar o repositório remoto.\
