@@ -1,6 +1,6 @@
-# Atividades do curso de Front-end - SENAI SP 
+## Comandos Git
 ![](https://cdn.iconscout.com/icon/free/png-256/git-2752184-2285001.png)
-## Principais comandos utilizados para gerenciar o versionamento no Git. <br>
+### Principais comandos utilizados para gerenciar o versionamento no Git. <br>
 `git init` - Cria a estrutura inicial do repositório Git no computador local.\
 `git add README.md` - Cria arquivo README.md e o adiciona ao histórico do projeto, na staging.\
 `git add .` - O ponto no final define que todos os arquivos que foram alterados serão adicionados ao histórico do projeto, na staging.\
