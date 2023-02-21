@@ -8,7 +8,7 @@
 `git remote add origin https://github.com/userName/repoName.git` - Informa a pasta remota.\
 `git push -u origin main` - Publica as alterações no repositório remoto.\
 ou\
-`git push --force origin main` - Força a publicação das alterações no repositório remoto.\
+`git push --force origin main` - Força a publicação das alterações no repositório remoto.\ <br>
 ---
 `git remote -v` - Permite visualizar o repositório remoto.\
 `git log` - Permite visualizar as alterações feitas.\
