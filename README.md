@@ -1,5 +1,5 @@
 ## Comandos Git
-![](https://cdn.iconscout.com/icon/free/png-256/git-2752184-2285001.png)
+![Logomarca do Git](https://cdn.iconscout.com/icon/free/png-256/git-2752184-2285001.png)
 ### Principais comandos utilizados para gerenciar o versionamento no Git. <br>
 `git init` - Cria a estrutura inicial do repositório Git no computador local.\
 `git add README.md` - Cria arquivo README.md e o adiciona ao histórico do projeto, na staging.\
@@ -9,7 +9,9 @@
 `git push -u origin main` - Publica as alterações no repositório remoto.\
 ou\
 `git push --force origin main` - Força a publicação das alterações no repositório remoto.\ <br>
+<br>
 ---
+<br>
 `git remote -v` - Permite visualizar o repositório remoto.\
 `git log` - Permite visualizar as alterações feitas.\
 `git add` - Adiciona arquivos ao histórico do projeto, na staging.\
