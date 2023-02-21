@@ -1,15 +1,15 @@
 # Atividades do curso de Front-end - SENAI SP 
 ![](https://cdn.iconscout.com/icon/free/png-256/git-2752184-2285001.png)
 ## Principais comandos utilizados para gerenciar o versionamento no Git. <br>
-`git init` - Cria a estrutura inicial do repositório Git no computador local.\
+<p>`git init` - Cria a estrutura inicial do repositório Git no computador local.\
 `git add README.md` - Cria arquivo README.md e o adiciona ao histórico do projeto, na staging.\
 `git add .` - O ponto no final define que todos os arquivos que foram alterados serão adicionados ao histórico do projeto, na staging.\
 `git commit -m "comentario"` - Registra/salva a alteração no repositório.\
 `git remote add origin https://github.com/userName/repoName.git` - Informa a pasta remota.\
 `git push -u origin main` - Publica as alterações no repositório remoto.\
 ou\
-`git push --force origin main` - Força a publicação das alterações no repositório remoto.\
---- <br>
+`git push --force origin main` - Força a publicação das alterações no repositório remoto.\ </p>
+<br>
 `git remote -v` - Permite visualizar o repositório remoto.\
 `git log` - Permite visualizar as alterações feitas.\
 `git add` - Adiciona arquivos ao histórico do projeto, na staging.\
